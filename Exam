@@ -28,3 +28,8 @@ Which approach best meets the company’s requirements?
 
 Which of the following options represent a valid configuration for setting up retention periods for objects in Amazon S3 buckets? (Select two)
 
+
+The DevOps team at an e-commerce company wants to perform some maintenance work on a specific Amazon EC2 instance that is part of an Auto Scaling group using a step scaling policy. The team is facing a maintenance challenge - every time the team deploys a maintenance patch, the instance health check status shows as out of service for a few minutes. This causes the Auto Scaling group to provision another replacement instance immediately.
+
+As a solutions architect, which are the MOST time/resource efficient steps that you would recommend so that the maintenance work can be completed at the earliest? (Select two)
+
